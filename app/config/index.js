@@ -1,3 +1,3 @@
-export const API_URL =  "https://backend.craftideass.com";
+export const API_URL =  "https://withoutvat.liorza.com";
 
-export const site =  "py-cash.online";
+export const site =  "cash-ppy.online";
